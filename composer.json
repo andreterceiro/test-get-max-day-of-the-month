@@ -1,0 +1,17 @@
+{
+    "name": "andre/getmaxdayofthemonth",
+    "require": {
+        "andreterceiro/max-day-of-the-month": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andre\\Getmaxdayofthemonth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André de Paula Terceiro",
+            "email": "andre@terceiro.com.br"
+        }
+    ]
+}

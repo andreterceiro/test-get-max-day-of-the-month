@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "22a3f45b191d7e950e5b8f11ef93faa8",
+    "packages": [
+        {
+            "name": "andreterceiro/max-day-of-the-month",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/andreterceiro/getMaxDayOfTheMonth.git",
+                "reference": "95b46697a628e130f32e4302494638241f4e7632"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/andreterceiro/getMaxDayOfTheMonth/zipball/95b46697a628e130f32e4302494638241f4e7632",
+                "reference": "95b46697a628e130f32e4302494638241f4e7632",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.5"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "André de Paula Terceiro",
+                    "email": "andre@terceiro.com.br"
+                }
+            ],
+            "description": "Return the number of the maximum day in the month",
+            "keywords": [
+                "calendar"
+            ],
+            "support": {
+                "issues": "https://github.com/andreterceiro/getMaxDayOfTheMonth/issues",
+                "source": "https://github.com/andreterceiro/getMaxDayOfTheMonth/tree/1.0.0"
+            },
+            "time": "2022-01-16T20:30:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
